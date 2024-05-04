@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=rohkane)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohkane&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 
 <!--
